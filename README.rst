@@ -13,7 +13,6 @@ Requirements
 Quickstart
 ------------
 To get started, clone this repository and run the install script:
-..  code-block:: bash
-    :linenos: 
-    cd DotFiles 
+.. installation_steps::
+    cd DotFiles
     ./install.fish
