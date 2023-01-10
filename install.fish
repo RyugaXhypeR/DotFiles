@@ -7,4 +7,3 @@ cd ~/.local/share/nvim/site/pack/packer/start/coc.nvim && yarn install && cd -
 # Runs :PackerSync
 nvim --headless -c 'autocmd User PackerComplete quitall' -c 'PackerSync'
 
-
