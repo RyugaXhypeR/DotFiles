@@ -1,7 +1,7 @@
 # The dot files I use
 
 ## Requirements
-* [git](<http://git-scm.com/)
+* [git](http://git-scm.com/)
 * [fish](https://fishshell.com/)
 * [neovim](https://neovim.io/)
 * [yarn](https://yarnpkg.com/)
