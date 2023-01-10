@@ -13,6 +13,6 @@ Requirements
 Quickstart
 ------------
 To get started, clone this repository and run the install script:
-.. installation_steps::
+.. installation_steps:: python
     cd DotFiles
     ./install.fish
